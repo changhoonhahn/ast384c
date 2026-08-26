@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.build_meta"
+# Tells pip how to build your package before it even looks at your project's own dependencies: 
+# "to build this package, you first need setuptools."
+
+[project]
+name = "toy-package"
+version = "0.1.0"
+description = "A toy package for learning Python packaging"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [
+  { name = "Your Name", email = "you@example.com" }
+]
+dependencies = [
+  # e.g. "requests>=2.31",
+] # the actual runtime dependencies your code *needs* to run, installed automatically. Different from [build-system].requires, which is only needed to build the package.
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=7.0",
+] #  Extra dependencies that aren't installed by default (only when a user opts in with pip install toy-package[dev])
+
+[project.urls]
+Homepage = "https://github.com/yourname/toy-package"
+
+[tool.setuptools.packages.find]
+where = ["src"] # setuptools-specific configuration that tells setuptools to auto-discover importable packages by looking inside src/ 
