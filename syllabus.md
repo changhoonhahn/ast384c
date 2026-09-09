@@ -61,8 +61,8 @@ Classes begin **Monday, August 24, 2026**; the last class day is **Monday, Decem
 | 6 | Mon, Sep 14 | MC methods, rejection sampling |
 | 7 | Wed, Sep 16 | MCMC I: Metropolis-Hastings, `emcee` |
 | 8 | Mon, Sep 21 | MCMC II: Hamiltonian Monte Carlo |
-| 9 | Wed, Sep 23 | Model comparison: evidence, information criteria |
-| 10 | Mon, Sep 28 | Hierarchical Bayesian modeling |
+| 9 | Wed, Sep 23 | Hierarchical Bayesian modeling |
+| 10 | Mon, Sep 28 | Model comparison |
 
 ### Part III: Machine Learning
 | # | Date | Topic |
