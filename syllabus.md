@@ -17,7 +17,7 @@ This course covers the essential computing skills and statistical methods used i
 
 ## Instructor
 
-Prof. ChangHoon Hahn (changhoon.hahn@utexas.edu)
+Prof. ChangHoon Hahn (changhoon.hahn@austin.utexas.edu)
 
 ### Office Hours and Location
 
