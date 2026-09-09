@@ -32,8 +32,8 @@ Meets Mondays and Wednesdays, 2:00–3:30 PM. Fall 2026 term per the [UT Austin 
 | 6 | Mon, Sep 14 | MC methods, rejection sampling                        |
 | 7 | Wed, Sep 16 | MCMC I: Metropolis-Hastings, `emcee`                  |
 | 8 | Mon, Sep 21 | MCMC II: Hamiltonian Monte Carlo                      |
-| 9 | Wed, Sep 23 | Model comparison: evidence, information criteria      |
-| 10| Mon, Sep 28 | Hierarchical Bayesian modeling                        |
+| 9 | Wed, Sep 23 | Hierarchical Bayesian modeling                        |
+| 10| Mon, Sep 28 | Model comparison (guest lecture by Tanveer Karim)     |
 
 ### Part III: Machine Learning
 | #   | Date        | Topic                           |
